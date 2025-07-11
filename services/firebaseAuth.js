@@ -1,4 +1,4 @@
-import { auth } from "../../firebaseConfig";
+import { auth } from "../firebaseConfig";
 
 export const signUp = async (email, password) => {
   return await auth.createUserWithEmailAndPassword(email, password);

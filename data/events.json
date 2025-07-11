@@ -1,0 +1,122 @@
+[
+  {
+    "category": "Tech",
+    "datetime": "2025-11-20 10:00",
+    "description": "Hackathon de 48 horas focado em soluções para cidades inteligentes.",
+    "favorites": [],
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Smart_City_Poster.jpg/640px-Smart_City_Poster.jpg",
+    "location": "Instituto Superior Técnico, Lisboa",
+    "participants": [],
+    "title": "Smart City Hackathon"
+  },
+  {
+    "category": "Educação",
+    "datetime": "2025-09-22 14:30",
+    "description": "Seminário sobre métodos inovadores de ensino e aprendizagem digital.",
+    "favorites": [],
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Classroom_students.jpg/640px-Classroom_students.jpg",
+    "location": "Universidade do Porto",
+    "participants": [],
+    "title": "Educação 4.0"
+  },
+  {
+    "category": "Culinária",
+    "datetime": "2025-10-18 11:00",
+    "description": "Workshop prático de cozinha mediterrânea saudável para toda a família.",
+    "favorites": [],
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mediterranean_diet_meal.JPG/640px-Mediterranean_diet_meal.JPG",
+    "location": "Escola de Gastronomia de Lisboa",
+    "participants": [],
+    "title": "Sabores Mediterrâneos"
+  },
+  {
+    "category": "Música",
+    "datetime": "2025-11-02 20:00",
+    "description": "Concerto intimista com música tradicional portuguesa ao vivo.",
+    "favorites": [],
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Portuguese_guitar.jpg/640px-Portuguese_guitar.jpg",
+    "location": "Teatro Nacional D. Maria II, Lisboa",
+    "participants": [],
+    "title": "Noite de Fado"
+  },
+  {
+    "category": "Arte",
+    "datetime": "2025-09-15 09:00",
+    "description": "Oficina de pintura em aquarela para iniciantes e amantes da arte.",
+    "favorites": [],
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Watercolor_painting_in_progress.jpg/640px-Watercolor_painting_in_progress.jpg",
+    "location": "Centro Cultural de Cascais",
+    "participants": [],
+    "title": "Aquarela para Todos"
+  },
+  {
+    "category": "Desporto",
+    "datetime": "2025-10-05 07:30",
+    "description": "Aula ao ar livre de yoga e meditação para reduzir o stress.",
+    "favorites": [],
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Yoga_morning.jpg/640px-Yoga_morning.jpg",
+    "location": "Parque Eduardo VII, Lisboa",
+    "participants": [],
+    "title": "Yoga no Parque"
+  },
+  {
+    "category": "Tech",
+    "datetime": "2025-12-05 15:00",
+    "description": "Palestra sobre cibersegurança aplicada a dispositivos IoT domésticos.",
+    "favorites": [],
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IoT_Device_Security.jpg/640px-IoT_Device_Security.jpg",
+    "location": "Faculdade de Engenharia, Universidade do Porto",
+    "participants": [],
+    "title": "Segurança IoT"
+  },
+  {
+    "category": "Educação",
+    "datetime": "2025-11-30 10:00",
+    "description": "Curso intensivo sobre programação para crianças e adolescentes.",
+    "favorites": [],
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kids_programming_class.jpg/640px-Kids_programming_class.jpg",
+    "location": "Centro de Formação de Lisboa",
+    "participants": [],
+    "title": "Programação para Jovens"
+  },
+  {
+    "category": "Culinária",
+    "datetime": "2025-12-12 17:00",
+    "description": "Festival de comida vegana com provas e showcookings.",
+    "favorites": [],
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vegan_food_festival.jpg/640px-Vegan_food_festival.jpg",
+    "location": "Parque da Cidade, Porto",
+    "participants": [],
+    "title": "Festival Vegano"
+  },
+  {
+    "category": "Música",
+    "datetime": "2025-09-25 19:30",
+    "description": "Concerto de música eletrónica com DJs internacionais.",
+    "favorites": [],
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Electronic_Music_Concert.jpg/640px-Electronic_Music_Concert.jpg",
+    "location": "Altice Arena, Lisboa",
+    "participants": [],
+    "title": "Electro Fest"
+  },
+  {
+    "category": "Arte",
+    "datetime": "2025-10-20 14:00",
+    "description": "Workshop de escultura em barro para todos os níveis.",
+    "favorites": [],
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Pottery_workshop.jpg/640px-Pottery_workshop.jpg",
+    "location": "Oficina de Arte, Coimbra",
+    "participants": [],
+    "title": "Escultura em Barro"
+  },
+  {
+    "category": "Desporto",
+    "datetime": "2025-11-10 09:00",
+    "description": "Torneio de futebol de praia aberto a todos os níveis.",
+    "favorites": [],
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Beach_soccer.jpg/640px-Beach_soccer.jpg",
+    "location": "Praia da Rocha, Algarve",
+    "participants": [],
+    "title": "Torneio Futebol Praia"
+  }
+]

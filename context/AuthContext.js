@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useEffect, useState } from "react";
-import { auth } from "../../firebaseConfig";
+import { auth } from "../firebaseConfig";
 
 //Criação do contexto (Área para partilha de funcções e variáveis entre várias aplicações)
 const AuthContext = createContext({});
